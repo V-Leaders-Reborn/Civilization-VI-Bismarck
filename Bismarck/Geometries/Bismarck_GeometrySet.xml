@@ -1,0 +1,262 @@
+<m_GeometrySet>
+<m_ModelInstances>
+<Element>
+<m_Name text="GUY"/>
+<m_GeoName text="Bismarck"/>
+<m_GroupStates>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Clothes"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Clothes"/>
+<m_MeshName text="Bismarck_Coat_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Clothes"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Clothes"/>
+<m_MeshName text="Bismarck_Coat_poly2"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Cuffs"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Cuffs"/>
+<m_MeshName text="Bismarck_Cuffs_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Clothes"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Clothes"/>
+<m_MeshName text="Bismarck_Epaulettes_Main_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Eye_Gloss"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Eye_Gloss"/>
+<m_MeshName text="Bismarck_Eye_Glass_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Eye_Transparancy"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Eye_Transparancy"/>
+<m_MeshName text="Bismarck_Eye_Transparency_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Hair"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Hair"/>
+<m_MeshName text="Bismarck_Eyebrows"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Eyes"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Eyes"/>
+<m_MeshName text="Bismarck_Eyes_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Hair"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Hair"/>
+<m_MeshName text="Bismarck_Hair"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Skin"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Skin"/>
+<m_MeshName text="Bismarck_Hands_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Skin"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Skin"/>
+<m_MeshName text="Bismarck_Head_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Skin"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Skin"/>
+<m_MeshName text="Bismarck_Head_poly2"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Skin"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Skin"/>
+<m_MeshName text="Bismarck_Head_poly3"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Clothes"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Clothes"/>
+<m_MeshName text="Bismarck_Legs_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Clothes"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Clothes"/>
+<m_MeshName text="Bismarck_Legs_poly2"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Hair"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Hair"/>
+<m_MeshName text="Bismarck_Mustache"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Teeth"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Teeth"/>
+<m_MeshName text="Bismarck_Teeth_Bottom_poly"/>
+<m_StateName text="Default"/>
+</Element>
+<Element>
+<m_Values>
+<m_Values>
+<Element class="AssetObjects:ObjectValue">
+<m_ObjectName text="Teeth"/>
+<m_eObjectType>MATERIAL</m_eObjectType>
+<m_ParamName text="Material"/>
+</Element>
+</m_Values>
+</m_Values>
+<m_GroupName text="Teeth"/>
+<m_MeshName text="Bismarck_Teeth_Top_poly"/>
+<m_StateName text="Default"/>
+</Element>
+</m_GroupStates>
+</Element>
+</m_ModelInstances>
+</m_GeometrySet>
