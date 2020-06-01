@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AssetObjects..ArtDefSet>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>293</revision>
+	</m_Version>
+	<m_TemplateName text="Leaders	"/>
+	<m_RootCollections>
+		<Element>
+			<m_CollectionName text="Leaders"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Animations"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..BLPEntryValue">
+										<m_EntryName text="Leader_Bismarck"/>
+										<m_XLPClass text="Leader"/>
+										<m_XLPPath text="Leader_Mod.xlp"/>
+										<m_BLPPackage text="leaders/leader_mod"/>
+										<m_LibraryName text="Leader"/>
+										<m_ParamName text="Leader_BLP_Entry"/>
+									</Element>
+									<Element class="AssetObjects..BLPEntryValue">
+										<m_EntryName text=""/>
+										<m_XLPClass text="Leader"/>
+										<m_XLPPath text=""/>
+										<m_BLPPackage text=""/>
+										<m_LibraryName text="Leader"/>
+										<m_ParamName text="Leader_Background_BLP_Entry"/>
+									</Element>
+									<Element class="AssetObjects..StringValue">
+										<m_Value text="GERMANY"/>
+										<m_ParamName text="Audio"/>
+									</Element>	
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="DEFAULT"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="LEADER_GEDEMO_BISMARK"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+		</Element>
+	</m_RootCollections>
+</AssetObjects..ArtDefSet>

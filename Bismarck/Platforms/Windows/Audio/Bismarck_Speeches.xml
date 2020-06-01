@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Simon\Documents\WwiseProjects\Bismarck\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Simon\Documents\WwiseProjects\Bismarck\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Simon\Documents\WwiseProjects\Bismarck\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3454423762" Language="SFX">
+			<ShortName>Bismarck_Speeches</ShortName>
+			<Path>Bismarck_Speeches.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1600622009" Name="BismarkAttacked"/>
+				<Event Id="4221984187" Name="BismarkDeclaresWar"/>
+				<Event Id="3490495940" Name="BismarkDefeated"/>
+				<Event Id="2440403090" Name="BismarkHateHello"/>
+				<Event Id="1872879736" Name="BismarkIntro"/>
+				<Event Id="3149853053" Name="BismarkNeutralHello"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="75009861" Language="SFX">
+					<ShortName>BismarkHateHello.wav</ShortName>
+					<Path>SFX\BismarkHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="154828797" Language="SFX">
+					<ShortName>BismarkDefeated.wav</ShortName>
+					<Path>SFX\BismarkDefeated_9E69E797.wem</Path>
+				</File>
+				<File Id="189161197" Language="SFX">
+					<ShortName>BismarkIntro.wav</ShortName>
+					<Path>SFX\BismarkIntro_9E69E797.wem</Path>
+				</File>
+				<File Id="255245358" Language="SFX">
+					<ShortName>BismarkNeutralHello.wav</ShortName>
+					<Path>SFX\BismarkNeutralHello_9E69E797.wem</Path>
+				</File>
+				<File Id="468361041" Language="SFX">
+					<ShortName>BismarkAttacked.wav</ShortName>
+					<Path>SFX\BismarkAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="1003327428" Language="SFX">
+					<ShortName>BismarkDeclaresWar.wav</ShortName>
+					<Path>SFX\BismarkDeclaresWar_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

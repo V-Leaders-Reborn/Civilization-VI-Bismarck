@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1600622009	BismarkAttacked			\Default Work Unit\BismarkAttacked	
+	1872879736	BismarkIntro			\Default Work Unit\BismarkIntro	
+	2440403090	BismarkHateHello			\Default Work Unit\BismarkHateHello	
+	3149853053	BismarkNeutralHello			\Default Work Unit\BismarkNeutralHello	
+	3490495940	BismarkDefeated			\Default Work Unit\BismarkDefeated	
+	4221984187	BismarkDeclaresWar			\Default Work Unit\BismarkDeclaresWar	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	75009861	BismarkHateHello	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkHateHello		461052
+	154828797	BismarkDefeated	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkDefeated		1576188
+	189161197	BismarkIntro	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkIntro		917244
+	255245358	BismarkNeutralHello	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkNeutralHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkNeutralHello		410364
+	468361041	BismarkAttacked	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkAttacked		977148
+	1003327428	BismarkDeclaresWar	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkDeclaresWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkDeclaresWar		1364220
+

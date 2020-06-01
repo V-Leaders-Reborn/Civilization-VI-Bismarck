@@ -9,10 +9,6 @@
 	<m_ClassName text="UITexture"/>
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
-		<Element>
-			<m_EntryID text="LEADER_JASPER_KITTY_NEUTRAL"/>
-			<m_ObjectName text="LEADER_JASPER_KITTY_NEUTRAL"/>
-		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
