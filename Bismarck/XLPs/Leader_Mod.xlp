@@ -9,10 +9,10 @@
 	<m_ClassName text="Leader"/>
 	<m_PackageName text="leaders/leader_mod"/>
 	<m_Entries>
-		<Element>
-			<m_EntryID text="Leader_Bismarck"/>
-			<m_ObjectName text="Leader_Bismarck"/>
-		</Element>
+			<Element>
+				<m_EntryID text="German_Bismarck"/>
+				<m_ObjectName text="German_Bismarck"/>
+			</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

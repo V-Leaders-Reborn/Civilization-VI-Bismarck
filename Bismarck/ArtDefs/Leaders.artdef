@@ -6,26 +6,21 @@
 		<build>253</build>
 		<revision>293</revision>
 	</m_Version>
-	<m_TemplateName text="Leaders	"/>
+	<m_TemplateName text="Leaders"/>
 	<m_RootCollections>
 		<Element>
 			<m_CollectionName text="Leaders"/>
 			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 			<Element>
 				<m_Fields>
-					<m_Values/>
-				</m_Fields>
-				<m_ChildCollections>
-					<Element>
-						<m_CollectionName text="Animations"/>
-						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					<m_Values>
 						<Element>
 							<m_Fields>
 								<m_Values>
 									<Element class="AssetObjects..BLPEntryValue">
-										<m_EntryName text="Leader_Bismarck"/>
+										<m_EntryName text="German_Bismarck"/>
 										<m_XLPClass text="Leader"/>
-										<m_XLPPath text="Leader_Mod.xlp"/>
+										<m_XLPPath text="leader_mod.xlp"/>
 										<m_BLPPackage text="leaders/leader_mod"/>
 										<m_LibraryName text="Leader"/>
 										<m_ParamName text="Leader_BLP_Entry"/>
@@ -39,17 +34,22 @@
 										<m_ParamName text="Leader_Background_BLP_Entry"/>
 									</Element>
 									<Element class="AssetObjects..StringValue">
+										<m_Value text=""/>
+										<m_ParamName text="Leader_Background_Animation_State"/>
+									</Element>
+									<Element class="AssetObjects..StringValue">
 										<m_Value text="GERMANY"/>
 										<m_ParamName text="Audio"/>
-									</Element>	
+									</Element>
 								</m_Values>
 							</m_Fields>
 							<m_ChildCollections/>
 							<m_Name text="DEFAULT"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
-					</Element>
-				</m_ChildCollections>
+					</m_Values>
+				</m_Fields>
+				<m_ChildCollections />
 				<m_Name text="LEADER_GEDEMO_BISMARK"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>

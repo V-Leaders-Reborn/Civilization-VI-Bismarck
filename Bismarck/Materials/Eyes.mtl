@@ -3,12 +3,12 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="bismarck_eye_glass_norm"/>
+				<m_ObjectName text="bismarck_masked_norm"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Normal"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="bismarck_eye_glass_diff"/>
+				<m_ObjectName text="bismarck_masked_diff"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
@@ -39,8 +39,8 @@
 			</Element>
 			<Element class="AssetObjects..RGBValue">
 				<m_r>150.000000</m_r>
-				<m_g>20.000000</m_g>
-				<m_b>7.000000</m_b>
+				<m_g>150.000000</m_g>
+				<m_b>150.000000</m_b>
 				<m_ParamName text="TranslucencyColor"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
