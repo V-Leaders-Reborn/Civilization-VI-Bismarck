@@ -19,17 +19,25 @@
 			<ShortName>Bismarck_Speeches</ShortName>
 			<Path>Bismarck_Speeches.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1600622009" Name="BismarkAttacked"/>
-				<Event Id="4221984187" Name="BismarkDeclaresWar"/>
-				<Event Id="3490495940" Name="BismarkDefeated"/>
-				<Event Id="2440403090" Name="BismarkHateHello"/>
-				<Event Id="1872879736" Name="BismarkIntro"/>
-				<Event Id="3149853053" Name="BismarkNeutralHello"/>
+				<Event Id="3762236826" Name="BismarckAttacked"/>
+				<Event Id="1522612257" Name="BismarckClothMoveDress"/>
+				<Event Id="2024806129" Name="BismarckClothMoveDressLow"/>
+				<Event Id="856710133" Name="BismarckDeclareWar"/>
+				<Event Id="2113150519" Name="BismarckDefeated"/>
+				<Event Id="3143459548" Name="BismarckFirstMeet"/>
+				<Event Id="2022455399" Name="BismarckHateHello"/>
+				<Event Id="1940075266" Name="BismarckNeutralHello"/>
+				<Event Id="108939479" Name="BismarckStep"/>
+				<Event Id="3878908075" Name="BismarckStepLow"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="75009861" Language="SFX">
 					<ShortName>BismarkHateHello.wav</ShortName>
 					<Path>SFX\BismarkHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="81096742" Language="SFX">
+					<ShortName>clothmovedress-002.wav</ShortName>
+					<Path>SFX\clothmovedress-002_9E69E797.wem</Path>
 				</File>
 				<File Id="154828797" Language="SFX">
 					<ShortName>BismarkDefeated.wav</ShortName>
@@ -43,13 +51,41 @@
 					<ShortName>BismarkNeutralHello.wav</ShortName>
 					<Path>SFX\BismarkNeutralHello_9E69E797.wem</Path>
 				</File>
+				<File Id="413264452" Language="SFX">
+					<ShortName>clothmovedress-003.wav</ShortName>
+					<Path>SFX\clothmovedress-003_9E69E797.wem</Path>
+				</File>
 				<File Id="468361041" Language="SFX">
 					<ShortName>BismarkAttacked.wav</ShortName>
 					<Path>SFX\BismarkAttacked_9E69E797.wem</Path>
 				</File>
+				<File Id="550392522" Language="SFX">
+					<ShortName>bismarckstep-003.wav</ShortName>
+					<Path>SFX\bismarckstep-003_9E69E797.wem</Path>
+				</File>
+				<File Id="577475305" Language="SFX">
+					<ShortName>clothmovedress-001.wav</ShortName>
+					<Path>SFX\clothmovedress-001_9E69E797.wem</Path>
+				</File>
+				<File Id="624497661" Language="SFX">
+					<ShortName>bismarckstep-000.wav</ShortName>
+					<Path>SFX\bismarckstep-000_9E69E797.wem</Path>
+				</File>
+				<File Id="754804993" Language="SFX">
+					<ShortName>clothmovedress-000.wav</ShortName>
+					<Path>SFX\clothmovedress-000_9E69E797.wem</Path>
+				</File>
+				<File Id="798946174" Language="SFX">
+					<ShortName>bismarckstep-002.wav</ShortName>
+					<Path>SFX\bismarckstep-002_9E69E797.wem</Path>
+				</File>
 				<File Id="1003327428" Language="SFX">
 					<ShortName>BismarkDeclaresWar.wav</ShortName>
 					<Path>SFX\BismarkDeclaresWar_9E69E797.wem</Path>
+				</File>
+				<File Id="1029929548" Language="SFX">
+					<ShortName>bismarckstep-001.wav</ShortName>
+					<Path>SFX\bismarckstep-001_9E69E797.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

@@ -254,9 +254,29 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="11" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkIntro" />
+                                                                        <m_FXName text="BismarckFirstMeet" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>1.17037</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="50" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDress" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.66510034</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="60" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDress" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.76766407</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -298,9 +318,49 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="1" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkAttacked" />
+                                                                        <m_FXName text="BismarckAttacked" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>0.233569</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="99" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>4.512823</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="100" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.153847367</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="101" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.615386</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="102" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>3.153848</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -342,9 +402,109 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="2" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkDeclaresWar" />
+                                                                        <m_FXName text="BismarckDeclareWar" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>0.155555</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="34" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.80769277</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="35" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.08571458</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="36" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>4.999997</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="39" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>5.59999657</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="40" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.942858</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="94" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.114285715</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="95" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="96" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>3.41025615</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="97" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>5.25641155</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="98" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.48717916</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -386,9 +546,19 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="14" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkNeutralHello" />
+                                                                        <m_FXName text="BismarckNeutralHello" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>0.333333</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="71" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.7035615</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -430,9 +600,19 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="6" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkHateHello" />
+                                                                        <m_FXName text="BismarckHateHello" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>0.340741</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="105" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.961542</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -474,9 +654,119 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="3" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkDefeated" />
+                                                                        <m_FXName text="BismarckDefeated" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>0.66667</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="31" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>8.195169</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="32" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>6.76568</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="33" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>8.257144</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="86" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>7.77357531</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="87" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>7.857144</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="88" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>6.8571434</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="89" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.14802718</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="90" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>4.760753</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="91" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>5.015681</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="92" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>4.900296</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="93" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>6.68383169</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -518,9 +808,109 @@
                                                                         <m_eType>SOUND</m_eType>
                                                                         <m_Name text="2" />
                                                                         <m_Description text="" />
-                                                                        <m_FXName text="BismarkDeclaresWar" />
+                                                                        <m_FXName text="BismarckDeclareWar" />
                                                                         <m_CollectionName text="" />
                                                                         <m_fStartTime>0.155555</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="34" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.80769277</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="35" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.08571458</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="36" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>4.999997</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="39" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>5.59999657</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="40" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.942858</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="94" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.114285715</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="95" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="96" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>3.41025615</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="97" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>5.25641155</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="98" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.48717916</m_fStartTime>
                                                                         <m_fDuration>0.000000</m_fDuration>
                                                                         <m_nTrackIndex text="0" />
                                                                </Element>
@@ -590,7 +980,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_no_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="73" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.472792476</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="74" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.932142</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -623,7 +1034,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_no_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="73" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.472792476</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="74" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.932142</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -656,7 +1088,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_yes_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="66" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.139459</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="72" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.229202747</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -689,7 +1142,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_yes_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="66" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.139459</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="72" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.229202747</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -755,7 +1229,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_no_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="73" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.472792476</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="74" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.932142</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -788,7 +1283,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_no_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="73" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.472792476</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="74" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.932142</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -821,7 +1337,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_yes_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="66" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.139459</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="72" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.229202747</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -854,7 +1391,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_neutral_yes_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="66" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.139459</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="72" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.229202747</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -920,7 +1478,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_hate_no_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="108" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.58974671</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="109" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.205130726</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -953,7 +1532,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_hate_no_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="108" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.58974671</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="109" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.205130726</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -986,7 +1586,38 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_hate_yes_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="48" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.217949</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="124" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.02564371</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="125" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.46154118</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -1019,7 +1650,38 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_hate_yes_gesture" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="48" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>2.217949</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="124" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.02564371</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="125" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.46154118</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -1085,7 +1747,58 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_trans_neutral_attack" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="45" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.19999528</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="46" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.471789926</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="110" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.446149</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="111" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.5999951</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="112" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.589746833</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -1118,7 +1831,18 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_trans_neutral_attack" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="113" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.410259575</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -1184,7 +1908,58 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_trans_neutral_attack" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="45" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.19999528</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="46" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.471789926</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="110" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStepLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>1.446149</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="111" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckStep" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.5999951</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="112" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.589746833</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
@@ -1217,7 +1992,28 @@
                                                       <m_Description text="" />
                                                       <m_AnimationName text="german_bismarck_hate_trans_peaceful" />
                                                       <m_fDuration>0.000000</m_fDuration>
-                                                      <m_Triggers />
+                                                      <m_Triggers>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="21" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.290322572</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                               <Element>
+                                                                        <m_eType>SOUND</m_eType>
+                                                                        <m_Name text="24" />
+                                                                        <m_Description text="" />
+                                                                        <m_FXName text="BismarckClothMoveDressLow" />
+                                                                        <m_CollectionName text="" />
+                                                                        <m_fStartTime>0.290322572</m_fStartTime>
+                                                                        <m_fDuration>0.000000</m_fDuration>
+                                                                        <m_nTrackIndex text="0" />
+                                                               </Element>
+                                                      </m_Triggers>
                                                       <m_Tracks>
                                                                <Element>
                                                                         <m_Name text="Sound" />
