@@ -2,13 +2,12 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Bismarck Civilization V</Name>
+    <Name>V Leaders Reborn - Otto von Bismarck</Name>
     <Guid>d9509a28-3312-40fa-bd60-c779f54afce3</Guid>
     <ProjectGuid>27a804cc-1e64-4ab5-b83c-d5067b40bae5</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>
-    </Teaser>
-    <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
+    <Teaser>Swaps Leader Art for Gedemo's Bismarck for animated and voiced Civ V Bismarck.</Teaser>
+    <Description>Swaps Leader Art for Gedemo's Bismarck for animated and voiced Civ V Bismarck.</Description>
     <AffectsSavedGames>true</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
@@ -62,7 +61,6 @@
     <Folder Include="Platforms\Windows\Audio" />
     <Folder Include="Textures\" />
     <Folder Include="XLPs\" />
-    <None Include="ArtDefs\FallbackLeaders.artdef" />
     <None Include="XLPs\LeaderFallbacks.xlp" />
     <None Include="XLPs\UILeaders.xlp" />
     <None Include="Bismarck.Art.xml" />

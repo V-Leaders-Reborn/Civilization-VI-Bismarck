@@ -1,13 +1,13 @@
 Starting AssetCooker...
 Argument '--shaders' has been deprecated and is no longer used.
 XLP cook starting...
-C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\Bismarck\Bismarck\XLPs\UILeaders.xlp
-Opened output file: C:\Users\Simon\Documents\My Games\Sid Meier's Civilization VI\Mods\Bismarck\Platforms\MacOS\BLPs/UILeaders.blp    For XLP: 'C:\Users\Simon\Documents\Firaxis ModBuddy\Civilization VI\Bismarck\Bismarck\XLPs\UILeaders.xlp'
+D:\Civ6Mod\gitproject\Civilization-VI-Bismarck\Bismarck\XLPs\UILeaders.xlp
+Opened output file: C:\Users\User\Documents\My Games\Sid Meier's Civilization VI\Mods\Bismarck\Platforms\MacOS\BLPs/UILeaders.blp    For XLP: 'D:\Civ6Mod\gitproject\Civilization-VI-Bismarck\Bismarck\XLPs\UILeaders.xlp'
 Could not load digest key: ''.  Using mod key to sign BLP.
 Starting 'UILeaders'
-Load finished for: 'UILeaders' in 0.020 seconds
-Cook finished for: 'UILeaders' in 0.158 seconds
-Disk write finished for: 'UILeaders' in 0.062 seconds
-Cleanup finished for: 'UILeaders' in 0.002 seconds
+Load finished for: 'UILeaders' in 0.079 seconds
+Cook finished for: 'UILeaders' in 0.513 seconds
+Disk write finished for: 'UILeaders' in 0.079 seconds
+Cleanup finished for: 'UILeaders' in 0.008 seconds
 XLP cook completed with success.
-Cook completed in 0.254 seconds
+Cook completed in 0.699 seconds
