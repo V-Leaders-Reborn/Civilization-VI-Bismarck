@@ -10,6 +10,14 @@
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
 		<Element>
+			<m_EntryID text="GEDEMO_BISMARK_1"/>
+			<m_ObjectName text="GEDEMO_BISMARK_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GEDEMO_BISMARK_4"/>
+			<m_ObjectName text="GEDEMO_BISMARK_4"/>
+		</Element>
+		<Element>
 			<m_EntryID text="LEADER_BISMARK_BACKGROUND"/>
 			<m_ObjectName text="LEADER_BISMARK_BACKGROUND"/>
 		</Element>
