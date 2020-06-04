@@ -43,6 +43,12 @@
     <Content Include="Platforms\Windows\Audio\Bismarck_Speeches.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="XLPs\ColorKeys.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\Leader_LightrRigs.xlp">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="XLPs\Leader_Mod.xlp">
       <SubType>Content</SubType>
     </Content>

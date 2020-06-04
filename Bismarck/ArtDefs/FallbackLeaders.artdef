@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>253</build>
-		<revision>293</revision>
+		<build>451</build>
+		<revision>343</revision>
 	</m_Version>
 	<m_TemplateName text="LeaderFallback"/>
 	<m_RootCollections>
@@ -22,8 +22,8 @@
 						<Element>
 							<m_Fields>
 								<m_Values>
-									<Element class="AssetObjects::BLPEntryValue">
-										<m_EntryName text="FALLBACK_NEUTRAL_LEADER_GEDEMO_BISMARK"/>
+									<Element class="AssetObjects..BLPEntryValue">
+										<m_EntryName text="FALLBACK_NEUTRAL_BISMARK"/>
 										<m_XLPClass text="LeaderFallback"/>
 										<m_XLPPath text="LeaderFallbacks.xlp"/>
 										<m_BLPPackage text="LeaderFallbacks"/>
