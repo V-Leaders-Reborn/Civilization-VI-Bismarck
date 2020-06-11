@@ -333,7 +333,6 @@
 		<Element>
 			<consumerName text="LeaderFallback"/>
 			<relativeArtDefPaths>
-				<Element text="FallbackLeaders.artdef"/>
 			</relativeArtDefPaths>
 			<libraryDependencies>
 				<Element text="LeaderFallback"/>
@@ -443,6 +442,7 @@
 		<Element>
 			<libraryName text="ColorKey"/>
 			<relativePackagePaths>
+				<Element text="ColorKeys"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
@@ -485,6 +485,7 @@
 		<Element>
 			<libraryName text="LeaderLighting"/>
 			<relativePackagePaths>
+				<Element text="leaders/light_rigs"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>

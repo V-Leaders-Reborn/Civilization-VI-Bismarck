@@ -18,10 +18,6 @@
 			<m_ObjectName text="GEDEMO_BISMARK_4"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LEADER_BISMARK_BACKGROUND"/>
-			<m_ObjectName text="LEADER_BISMARK_BACKGROUND"/>
-		</Element>
-		<Element>
 			<m_EntryID text="LEADER_BISMARK_NEUTRAL"/>
 			<m_ObjectName text="LEADER_BISMARK_NEUTRAL"/>
 		</Element>

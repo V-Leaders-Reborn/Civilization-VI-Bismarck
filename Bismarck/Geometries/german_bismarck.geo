@@ -246,6 +246,11 @@
 </Element>
 </m_Meshes>
 <m_Bones>
+<Element text="CN6_ADJUSTMENT_BONE_6"/>
+<Element text="CN6_ADJUSTMENT_BONE_5"/>
+<Element text="CN6_ADJUSTMENT_BONE_4"/>
+<Element text="CN6_ADJUSTMENT_BONE_3"/>
+<Element text="CN6_ADJUSTMENT_BONE_2"/>
 <Element text="CN6_ADJUSTMENT_BONE_1"/>
 <Element text="GUY"/>
 <Element text="WORLD"/>
