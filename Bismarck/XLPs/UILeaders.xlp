@@ -22,6 +22,10 @@
 			<m_ObjectName text="LEADER_BISMARK_NEUTRAL"/>
 		</Element>
 		<Element>
+			<m_EntryID text="LEADER_BISMARCK_BACKGROUND"/>
+			<m_ObjectName text="LEADER_BISMARCK_BACKGROUND"/>
+		</Element>
+		<Element>
 			<m_EntryID text="ICON_BISMARK_256"/>
 			<m_ObjectName text="ICON_BISMARK_256"/>
 		</Element>
